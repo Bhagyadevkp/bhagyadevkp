@@ -9,8 +9,6 @@
 - ⚡ Reach me via bhagyadevkp01@gmail.com
 - 🥅 Learning 24x7
 
-<br/>
-
 ### Connect with me:
 
 [![website](./img/instagram-light.svg)](https://www.instagram.com/bhagyadevkp/#gh-light-mode-only)
@@ -22,8 +20,6 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbhagyadev&screen_name=bhagyadevkp#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbhagyadev&screen_name=bhagyadevkp#gh-dark-mode-only)
 <br/>
-<br/>
-
 
 ### Languages and Tools:
 
