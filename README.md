@@ -1,4 +1,4 @@
-# Hi there, I'm Bhagyadev  👋
+# I'm Bhagyadev
 
 
 
