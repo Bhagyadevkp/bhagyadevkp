@@ -4,6 +4,22 @@
 
 I'm a full-stack developer. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
+Reach me via [bhagyadevkp01@gmail.com](mailto:bhagyadevjp01@gmail.com)<br/>
+[<img style="filter: invert()" align="left" alt="ilyas | Twitter" width="28px" src="https://img.icons8.com/color/48/000000/twitter.png"/>][twitter]
+[<img align="left" alt="ilyas | LinkedIn" width="28px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+<!-- [<img align="left" alt="ilyas | Instagram" width="28px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="ilyas | Discord" width="28px" src="https://img.icons8.com/color/48/000000/discord-logo.png" />][discord]
+[<img align="left" alt="ilyas | Discord" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />][stackoverflow] -->
+
+[twitter]:https://twitter.com/bhagyadevkp
+[linkedin]:https://www.linkedin.com/in/bhagyadev-kp/
+[instagram]:
+[discord]:
+[stackoverflow]:
+<br/>
+<br/>
+
+
 ---
 
 
