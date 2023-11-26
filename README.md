@@ -39,10 +39,10 @@ Reach me via [bhagyadevkp01@gmail.com](mailto:bhagyadevjp01@gmail.com)<br/>
 
 #
 
-<!-- ### 📊 Stats
+### 📊 Stats
 
 ![Bhagyadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhagyadevkp&show_icons=true&theme=gruvbox)
-> -->
+>
 
 <p align="center" style="font-size:400px;"><i>Viewers from 25th Nov 2023:</p>
 <p align="center">
