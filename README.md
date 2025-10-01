@@ -1,8 +1,10 @@
 # 🏄‍♂️ Bhagyadev
 
-**`Fullstack Developer`**
+**`Odoo Developer`**
 
-I'm a full-stack developer. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+Accomplished Odoo Developer with over 3 years of experience in Odoo development, customization,
+implementation, and functional training, consistently delivering tailored solutions that align with client
+objectives.
 
 Reach me via [bhagyadevkp01@gmail.com](mailto:bhagyadevjp01@gmail.com)<br/>
 [<img style="filter: invert()" align="left" alt="ilyas | Twitter" width="28px" src="https://img.icons8.com/color/48/000000/twitter.png"/>][twitter]
