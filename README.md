@@ -6,7 +6,7 @@ Accomplished Odoo Developer with over 3 years of experience in Odoo development,
 implementation, and functional training, consistently delivering tailored solutions that align with client
 objectives.
 
-Reach me via [bhagyadevkp01@gmail.com](mailto:bhagyadevjp01@gmail.com) or [Website]:https://bhagyadevkp.github.io/portfolio/<br/>
+Reach me via [bhagyadevkp01@gmail.com](mailto:bhagyadevjp01@gmail.com) or [Website]:(https://bhagyadevkp.github.io/portfolio/)<br/>
 [<img style="filter: invert()" align="left" alt="ilyas | Twitter" width="28px" src="https://img.icons8.com/color/48/000000/twitter.png"/>][twitter]
 [<img align="left" alt="ilyas | LinkedIn" width="28px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 <!-- [<img align="left" alt="ilyas | Instagram" width="28px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
